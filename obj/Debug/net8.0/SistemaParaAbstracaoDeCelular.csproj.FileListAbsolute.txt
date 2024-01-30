@@ -1,0 +1,14 @@
+C:\projetos\introducao_dotnet\SistemaParaAbstracaoDeCelular\bin\Debug\net8.0\SistemaParaAbstracaoDeCelular.exe
+C:\projetos\introducao_dotnet\SistemaParaAbstracaoDeCelular\bin\Debug\net8.0\SistemaParaAbstracaoDeCelular.deps.json
+C:\projetos\introducao_dotnet\SistemaParaAbstracaoDeCelular\bin\Debug\net8.0\SistemaParaAbstracaoDeCelular.runtimeconfig.json
+C:\projetos\introducao_dotnet\SistemaParaAbstracaoDeCelular\bin\Debug\net8.0\SistemaParaAbstracaoDeCelular.dll
+C:\projetos\introducao_dotnet\SistemaParaAbstracaoDeCelular\bin\Debug\net8.0\SistemaParaAbstracaoDeCelular.pdb
+C:\projetos\introducao_dotnet\SistemaParaAbstracaoDeCelular\obj\Debug\net8.0\SistemaParaAbstracaoDeCelular.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\introducao_dotnet\SistemaParaAbstracaoDeCelular\obj\Debug\net8.0\SistemaParaAbstracaoDeCelular.AssemblyInfoInputs.cache
+C:\projetos\introducao_dotnet\SistemaParaAbstracaoDeCelular\obj\Debug\net8.0\SistemaParaAbstracaoDeCelular.AssemblyInfo.cs
+C:\projetos\introducao_dotnet\SistemaParaAbstracaoDeCelular\obj\Debug\net8.0\SistemaParaAbstracaoDeCelular.csproj.CoreCompileInputs.cache
+C:\projetos\introducao_dotnet\SistemaParaAbstracaoDeCelular\obj\Debug\net8.0\SistemaParaAbstracaoDeCelular.dll
+C:\projetos\introducao_dotnet\SistemaParaAbstracaoDeCelular\obj\Debug\net8.0\refint\SistemaParaAbstracaoDeCelular.dll
+C:\projetos\introducao_dotnet\SistemaParaAbstracaoDeCelular\obj\Debug\net8.0\SistemaParaAbstracaoDeCelular.pdb
+C:\projetos\introducao_dotnet\SistemaParaAbstracaoDeCelular\obj\Debug\net8.0\SistemaParaAbstracaoDeCelular.genruntimeconfig.cache
+C:\projetos\introducao_dotnet\SistemaParaAbstracaoDeCelular\obj\Debug\net8.0\ref\SistemaParaAbstracaoDeCelular.dll
